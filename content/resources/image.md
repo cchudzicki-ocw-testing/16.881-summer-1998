@@ -12,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: image.jpg
-uid: 7ab5f7a4-81a1-4ad5-9e78-5b3aa339b996
+uid: a3c4ccea-e31a-48c0-912b-fef416e9b058
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
