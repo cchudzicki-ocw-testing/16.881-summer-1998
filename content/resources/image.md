@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+draft: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-881-robust-system-design-summer-1998/image.jpg
 file_type: image/jpeg
 image_metadata:
@@ -11,7 +12,7 @@ learning_resource_types: []
 license: ''
 resourcetype: Image
 title: image.jpg
-uid: 74a94c28-ebaf-4a59-aae8-578787a46088
+uid: 0872f9fe-4e1b-4477-b270-e9009a6ac32d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
