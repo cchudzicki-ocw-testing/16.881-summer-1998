@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-881-robust-system-design-summer-1998/d679a61f5bb5ef6e1fbedb4d2cc10ce6_l9_cad2.pdf
+file: /media/courses/16-881-robust-system-design-summer-1998/d679a61f5bb5ef6e1fbedb4d2cc10ce6_l9_cad2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
